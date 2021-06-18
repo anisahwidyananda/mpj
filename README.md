@@ -1,2 +1,2 @@
 # mpj
-monitoring for plan&amp;actual progress
+monitoring for plan and actual progress
